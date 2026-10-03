@@ -1,29 +1,70 @@
-# Sistema_Contabilidad-Java
-Sistema Financiero en Java (En desarrollo)
-Actualmente tiene:
+ContaSYSTEM
 
-- Generacion de Balance General
-- Pequeña GUI con la clase swing
-- Exporta los resultados a un .txt y guarda en una carpeta
+Sistema de contabilidad desarrollado en Java como proyecto académico y de práctica de programación orientada a objetos.
 
-# Update: Actualizacion simple:
-- Se agrego metodo PedirDatos();
-- Se optimizo el codigo al usar el metodo evitando escribir lo mismo para capturar los datos del Balance tanto como del Estado
+📌 Descripción
 
-# Update: Actualizacion del Menu y Clase Estado:  
-Se modifico en el menu lo siguiente:
-- Se agrego condicional para distingir cuentas del Balance y Estado
-- Otro condicional para decidir que cuentas usara el objeto para crearse dependiendo de lo elegido por el usuario
-- Manda las cuentas del Estado a la clase Estado
-  
-Clase Estado:
-- Se creo la clase Estado
-- Por ahora solo tiene los metodos para guardar las cuentas, el metodo para pedir la fecha y el metodo CalcularEstado();
-- Esta listo para comenzar con las formulas y calculos
+ContaSYSTEM es una aplicación de escritorio desarrollada con Java y Swing para administrar información contable y generar reportes financieros.
 
-# Update del 23 de mayo de 2026:
-- Se desarrolló pendiente "Estado de Resultados". Resultado en "reportes/EstadoResultados.txt"
+El proyecto aplica conceptos de programación orientada a objetos, manejo de colecciones, archivos e interfaces gráficas.
 
-# Update 26 Mayo 2026 : Edición y eliminación de cuentas
-- Se implementó un menú para editar cuentas en balance general y estado de resultados, así como eliminación de los mismos. Al detectar errores en la edición del archivo, se descartó la primera versión del editado.
-- El menú de edición se habilita sólo si se detecta la existencia de archivos de balance y/o estados.
+⚙️ Funcionalidades
+
+- Gestión de cuentas contables.
+- Registro de cuentas de activo y pasivo.
+- Cálculo del Balance General.
+- Generación del Estado de Resultados.
+- Generación de reportes en archivos ".txt".
+- Selección de carpetas para guardar reportes.
+- Interfaz gráfica mediante Java Swing.
+- Uso de "ArrayList".
+- Validaciones de datos.
+
+🛠️ Tecnologías utilizadas
+
+- Java
+- Java Swing
+- Programación Orientada a Objetos
+- ArrayList
+- Manejo de archivos
+- Git / GitHub
+
+▶️ Ejecutar la aplicación
+
+Windows
+
+La aplicación se distribuye como una aplicación portable.
+
+No es necesario tener Java instalado.
+
+1. Descargar el archivo ".zip".
+2. Extraer todo su contenido.
+3. Abrir la carpeta extraída.
+4. Ejecutar:
+
+ContaSYSTEM.exe
+
+«Es importante mantener todos los archivos y carpetas incluidos en el ZIP.»
+
+📊 Reportes
+
+ContaSYSTEM permite generar:
+
+- Balance General
+- Estado de Resultados
+
+Los reportes pueden guardarse en la ubicación seleccionada por el usuario.
+
+📁 Descarga
+
+La versión ejecutable para Windows se encuentra disponible en la sección Releases de este repositorio.
+
+🎯 Objetivo
+
+Este proyecto forma parte de mi proceso de aprendizaje como estudiante de Ingeniería en Sistemas Computacionales y busca aplicar conocimientos de Java en una aplicación funcional de escritorio.
+
+Autor:
+
+Emiliano Alvarado
+
+Estudiante de Ingeniería en Sistemas Computacionales.
