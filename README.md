@@ -2,13 +2,13 @@ ContaSYSTEM
 
 Sistema de contabilidad desarrollado en Java como proyecto académico y de práctica de programación orientada a objetos.
 
-📌 Descripción
+ Descripción
 
 ContaSYSTEM es una aplicación de escritorio desarrollada con Java y Swing para administrar información contable y generar reportes financieros.
 
 El proyecto aplica conceptos de programación orientada a objetos, manejo de colecciones, archivos e interfaces gráficas.
 
-⚙️ Funcionalidades
+ Funcionalidades
 
 - Gestión de cuentas contables.
 - Registro de cuentas de activo y pasivo.
@@ -20,7 +20,7 @@ El proyecto aplica conceptos de programación orientada a objetos, manejo de col
 - Uso de "ArrayList".
 - Validaciones de datos.
 
-🛠️ Tecnologías utilizadas
+ Tecnologías utilizadas
 
 - Java
 - Java Swing
@@ -29,7 +29,7 @@ El proyecto aplica conceptos de programación orientada a objetos, manejo de col
 - Manejo de archivos
 - Git / GitHub
 
-▶️ Ejecutar la aplicación
+> Ejecutar la aplicación
 
 Windows
 
@@ -46,7 +46,7 @@ ContaSYSTEM.exe
 
 «Es importante mantener todos los archivos y carpetas incluidos en el ZIP.»
 
-📊 Reportes
+>> Reportes
 
 ContaSYSTEM permite generar:
 
@@ -55,11 +55,11 @@ ContaSYSTEM permite generar:
 
 Los reportes pueden guardarse en la ubicación seleccionada por el usuario.
 
-📁 Descarga
+-> Descarga
 
 La versión ejecutable para Windows se encuentra disponible en la sección Releases de este repositorio.
 
-🎯 Objetivo
+ Objetivo
 
 Este proyecto forma parte de mi proceso de aprendizaje como estudiante de Ingeniería en Sistemas Computacionales y busca aplicar conocimientos de Java en una aplicación funcional de escritorio.
 
