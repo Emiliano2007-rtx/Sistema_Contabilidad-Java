@@ -26,8 +26,9 @@ El proyecto aplica conceptos de programación orientada a objetos, manejo de col
 
 ![Java Swing](https://img.shields.io/badge/Java_Swing-5382A1?style=for-the-badge&logo=java&logoColor=white)
 
-- Programación Orientada a Objetos
-- Git / GitHub
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 > Ejecutar la aplicación
 
