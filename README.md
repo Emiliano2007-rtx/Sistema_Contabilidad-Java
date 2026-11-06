@@ -22,8 +22,10 @@ El proyecto aplica conceptos de programación orientada a objetos, manejo de col
 
  Tecnologías utilizadas
 
-- Java
-- Java Swing
+-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+-![Java Swing](https://img.shields.io/badge/Java_Swing-5382A1?style=for-the-badge&logo=java&logoColor=white)
+
 - Programación Orientada a Objetos
 - ArrayList
 - Manejo de archivos
