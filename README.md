@@ -1,4 +1,4 @@
-ContaSYSTEM
+# ContaSYSTEM
 
 Sistema de contabilidad desarrollado en Java como proyecto académico y de práctica de programación orientada a objetos.
 
